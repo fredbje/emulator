@@ -62,6 +62,8 @@ private:
         Indirect
     };
 
+    uint8_t Hallo;
+
     uint16_t PC;
     uint8_t X;  // Index register
     uint8_t Y;  // Index register
